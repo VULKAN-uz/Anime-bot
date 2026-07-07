@@ -1,0 +1,363 @@
+2026-07-07 12:00:31,711 | INFO | __main__ | 🚀 Bot ishga tushirilmoqda...
+2026-07-07 12:00:32,032 | INFO | bot.database.db | ✅ Jadvallar muvaffaqiyatli yaratildi.
+2026-07-07 12:00:32,033 | INFO | __main__ | ✅ Ma'lumotlar bazasi tayyor.
+2026-07-07 12:00:32,555 | INFO | __main__ | ✅ Bot muvaffaqiyatli ishga tushdi! Polling boshlandi...
+2026-07-07 12:00:32,555 | INFO | aiogram.dispatcher | Start polling
+2026-07-07 12:00:38,184 | INFO | aiogram.dispatcher | Run polling for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 12:01:00,403 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:01:00,404 | INFO | aiogram.event | Update id=131486034 is handled. Duration 390 ms by bot id=8838659979
+2026-07-07 12:01:14,883 | INFO | aiogram.event | Update id=131486035 is handled. Duration 141 ms by bot id=8838659979
+2026-07-07 12:01:22,912 | INFO | aiogram.event | Update id=131486036 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:01:28,704 | INFO | aiogram.event | Update id=131486037 is handled. Duration 313 ms by bot id=8838659979
+2026-07-07 12:01:30,316 | INFO | aiogram.event | Update id=131486038 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:01:33,661 | INFO | aiogram.event | Update id=131486039 is handled. Duration 297 ms by bot id=8838659979
+2026-07-07 12:01:44,617 | INFO | aiogram.event | Update id=131486040 is handled. Duration 561 ms by bot id=8838659979
+2026-07-07 12:01:56,999 | INFO | aiogram.event | Update id=131486041 is handled. Duration 141 ms by bot id=8838659979
+2026-07-07 12:02:01,364 | INFO | aiogram.event | Update id=131486042 is handled. Duration 139 ms by bot id=8838659979
+2026-07-07 12:02:05,570 | INFO | aiogram.event | Update id=131486043 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:02:10,550 | INFO | aiogram.event | Update id=131486044 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:02:13,684 | INFO | bot.database.db | ✅ Anime qo'shildi: naruto (kod: 1)
+2026-07-07 12:02:13,819 | INFO | aiogram.event | Update id=131486045 is handled. Duration 343 ms by bot id=8838659979
+2026-07-07 12:02:21,372 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:02:21,373 | INFO | aiogram.event | Update id=131486046 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 12:02:24,643 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 8547063111 kod=1 qidirdi
+2026-07-07 12:02:24,643 | INFO | aiogram.event | Update id=131486047 is handled. Duration 171 ms by bot id=8838659979
+2026-07-07 12:02:27,559 | INFO | aiogram.event | Update id=131486048 is handled. Duration 390 ms by bot id=8838659979
+2026-07-07 12:02:29,092 | INFO | aiogram.event | Update id=131486049 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:02:31,724 | INFO | aiogram.event | Update id=131486050 is handled. Duration 265 ms by bot id=8838659979
+2026-07-07 12:02:32,820 | INFO | aiogram.event | Update id=131486051 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:02:34,772 | INFO | aiogram.event | Update id=131486052 is handled. Duration 296 ms by bot id=8838659979
+2026-07-07 12:02:36,051 | INFO | aiogram.event | Update id=131486053 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:02:38,502 | INFO | aiogram.event | Update id=131486054 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:02:39,122 | INFO | aiogram.event | Update id=131486055 is handled. Duration 266 ms by bot id=8838659979
+2026-07-07 12:02:39,799 | INFO | aiogram.event | Update id=131486056 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:02:41,584 | INFO | aiogram.event | Update id=131486057 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:02:48,047 | INFO | aiogram.event | Update id=131486058 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:02:52,332 | INFO | aiogram.event | Update id=131486059 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:02:58,288 | INFO | aiogram.event | Update id=131486060 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:02:59,910 | INFO | aiogram.event | Update id=131486061 is not handled. Duration 0 ms by bot id=8838659979
+2026-07-07 12:03:03,947 | INFO | aiogram.event | Update id=131486062 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:03:05,729 | INFO | aiogram.event | Update id=131486063 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 12:03:08,744 | INFO | aiogram.event | Update id=131486064 is handled. Duration 139 ms by bot id=8838659979
+2026-07-07 12:03:13,140 | INFO | aiogram.event | Update id=131486065 is handled. Duration 139 ms by bot id=8838659979
+2026-07-07 12:04:49,720 | INFO | bot.database.db | ✅ Qism saqlandi: anime_id=1, ep=1
+2026-07-07 12:04:50,219 | INFO | aiogram.event | Update id=131486066 is handled. Duration 672 ms by bot id=8838659979
+2026-07-07 12:04:54,784 | INFO | aiogram.event | Update id=131486067 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:04:57,280 | INFO | aiogram.event | Update id=131486068 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 12:04:59,730 | INFO | aiogram.event | Update id=131486069 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:05:03,754 | INFO | bot.database.db | ✅ Anime yangilandi: ID=1, poster=AgACAgIAAxkBAAMyakylL03UnuO1atyqdKCKdGaEuYMAAssdaxs9wGFKBcDluhtC0NwBAAMCAAN5AAM8BA
+2026-07-07 12:05:03,910 | INFO | aiogram.event | Update id=131486070 is handled. Duration 280 ms by bot id=8838659979
+2026-07-07 12:05:07,405 | INFO | aiogram.event | Update id=131486071 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:05:13,166 | INFO | aiogram.event | Update id=131486072 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:05:15,010 | INFO | aiogram.event | Update id=131486073 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 12:05:18,727 | INFO | aiogram.event | Update id=131486074 is handled. Duration 343 ms by bot id=8838659979
+2026-07-07 12:05:20,605 | INFO | bot.database.db | ✅ Anime yangilandi: ID=1, episodes=1
+2026-07-07 12:05:20,740 | INFO | aiogram.event | Update id=131486075 is handled. Duration 264 ms by bot id=8838659979
+2026-07-07 12:05:24,552 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:05:24,552 | INFO | aiogram.event | Update id=131486076 is handled. Duration 156 ms by bot id=8838659979
+2026-07-07 12:05:27,594 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 8547063111 kod=1 qidirdi
+2026-07-07 12:05:27,594 | INFO | aiogram.event | Update id=131486077 is handled. Duration 218 ms by bot id=8838659979
+2026-07-07 12:05:30,969 | INFO | aiogram.event | Update id=131486078 is handled. Duration 235 ms by bot id=8838659979
+2026-07-07 12:05:32,196 | INFO | bot.handlers.user_handler | 📤 Foydalanuvchi 8547063111: anime_id=1, ep=1, action=watch
+2026-07-07 12:05:32,197 | INFO | aiogram.event | Update id=131486079 is handled. Duration 359 ms by bot id=8838659979
+2026-07-07 12:06:00,854 | INFO | aiogram.event | Update id=131486080 is handled. Duration 485 ms by bot id=8838659979
+2026-07-07 12:06:01,524 | INFO | aiogram.event | Update id=131486081 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:06:08,228 | INFO | aiogram.event | Update id=131486082 is handled. Duration 235 ms by bot id=8838659979
+2026-07-07 12:06:08,752 | INFO | aiogram.event | Update id=131486083 is not handled. Duration 16 ms by bot id=8838659979
+2026-07-07 12:06:11,300 | INFO | aiogram.event | Update id=131486084 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:06:13,734 | INFO | aiogram.event | Update id=131486085 is handled. Duration 139 ms by bot id=8838659979
+2026-07-07 12:06:14,999 | INFO | aiogram.event | Update id=131486086 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 12:06:15,944 | INFO | aiogram.event | Update id=131486087 is handled. Duration 218 ms by bot id=8838659979
+2026-07-07 12:06:18,416 | INFO | aiogram.event | Update id=131486088 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:06:24,473 | INFO | bot.database.db | ✅ Anime o'chirildi: ID=1
+2026-07-07 12:06:24,606 | INFO | aiogram.event | Update id=131486089 is handled. Duration 296 ms by bot id=8838659979
+2026-07-07 12:06:27,062 | INFO | aiogram.event | Update id=131486090 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:06:28,107 | INFO | aiogram.event | Update id=131486091 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:06:30,552 | INFO | aiogram.event | Update id=131486092 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:06:33,630 | INFO | aiogram.event | Update id=131486093 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:06:38,761 | INFO | aiogram.event | Update id=131486094 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:06:44,173 | INFO | aiogram.event | Update id=131486095 is handled. Duration 156 ms by bot id=8838659979
+2026-07-07 12:06:46,564 | INFO | aiogram.event | Update id=131486096 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:06:48,499 | INFO | aiogram.event | Update id=131486097 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 12:06:50,607 | INFO | bot.database.db | ✅ Anime qo'shildi: naruto (kod: 1)
+2026-07-07 12:06:50,789 | INFO | aiogram.event | Update id=131486098 is handled. Duration 343 ms by bot id=8838659979
+2026-07-07 12:06:52,831 | INFO | aiogram.event | Update id=131486099 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:06:54,256 | INFO | aiogram.event | Update id=131486100 is handled. Duration 141 ms by bot id=8838659979
+2026-07-07 12:06:59,503 | INFO | aiogram.event | Update id=131486101 is handled. Duration 141 ms by bot id=8838659979
+2026-07-07 12:07:10,732 | INFO | bot.database.db | ✅ Qism saqlandi: anime_id=2, ep=1
+2026-07-07 12:07:10,866 | INFO | aiogram.event | Update id=131486102 is handled. Duration 296 ms by bot id=8838659979
+2026-07-07 12:07:14,722 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:07:14,723 | INFO | aiogram.event | Update id=131486103 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 12:07:16,388 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:07:16,389 | INFO | aiogram.event | Update id=131486104 is handled. Duration 171 ms by bot id=8838659979
+2026-07-07 12:07:17,345 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:07:17,345 | INFO | aiogram.event | Update id=131486105 is handled. Duration 156 ms by bot id=8838659979
+2026-07-07 12:07:19,323 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:07:19,323 | INFO | aiogram.event | Update id=131486106 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 12:07:20,142 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 12:07:20,143 | INFO | aiogram.event | Update id=131486107 is handled. Duration 171 ms by bot id=8838659979
+2026-07-07 12:07:24,489 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 8547063111 kod=1 qidirdi
+2026-07-07 12:07:24,490 | INFO | aiogram.event | Update id=131486108 is handled. Duration 155 ms by bot id=8838659979
+2026-07-07 12:07:26,367 | INFO | aiogram.event | Update id=131486109 is handled. Duration 421 ms by bot id=8838659979
+2026-07-07 12:07:27,071 | INFO | bot.handlers.user_handler | 📤 Foydalanuvchi 8547063111: anime_id=2, ep=1, action=watch
+2026-07-07 12:07:27,072 | INFO | aiogram.event | Update id=131486110 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:08:21,602 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8643156636
+2026-07-07 12:08:21,603 | INFO | aiogram.event | Update id=131486111 is handled. Duration 500 ms by bot id=8838659979
+2026-07-07 12:10:30,923 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8832717810
+2026-07-07 12:10:30,924 | INFO | aiogram.event | Update id=131486112 is handled. Duration 1031 ms by bot id=8838659979
+2026-07-07 12:10:33,620 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 8832717810 kod=1 qidirdi
+2026-07-07 12:10:33,620 | INFO | aiogram.event | Update id=131486113 is handled. Duration 155 ms by bot id=8838659979
+2026-07-07 12:10:35,887 | INFO | aiogram.event | Update id=131486114 is handled. Duration 139 ms by bot id=8838659979
+2026-07-07 12:10:38,049 | INFO | aiogram.event | Update id=131486115 is handled. Duration 250 ms by bot id=8838659979
+2026-07-07 12:10:39,124 | INFO | bot.handlers.user_handler | 📤 Foydalanuvchi 8832717810: anime_id=2, ep=1, action=watch
+2026-07-07 12:10:39,124 | INFO | aiogram.event | Update id=131486116 is handled. Duration 266 ms by bot id=8838659979
+2026-07-07 12:10:51,559 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 8643156636 kod=1 qidirdi
+2026-07-07 12:10:51,561 | INFO | aiogram.event | Update id=131486117 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 14:14:48,901 | INFO | __main__ | 🚀 Bot ishga tushirilmoqda...
+2026-07-07 14:14:49,005 | INFO | bot.database.db | ✅ Jadvallar muvaffaqiyatli yaratildi.
+2026-07-07 14:14:49,007 | INFO | __main__ | ✅ Ma'lumotlar bazasi tayyor.
+2026-07-07 14:14:52,804 | INFO | __main__ | ✅ Bot muvaffaqiyatli ishga tushdi! Polling boshlandi...
+2026-07-07 14:14:52,808 | INFO | aiogram.dispatcher | Start polling
+2026-07-07 14:14:53,561 | INFO | aiogram.dispatcher | Run polling for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 14:14:53,862 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:14:53,865 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8838659979)
+2026-07-07 14:14:58,065 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:14:58,074 | WARNING | aiogram.dispatcher | Sleep for 1.285536 seconds and try again... (tryings = 1, bot id = 8838659979)
+2026-07-07 14:14:59,628 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:14:59,641 | WARNING | aiogram.dispatcher | Sleep for 1.617663 seconds and try again... (tryings = 2, bot id = 8838659979)
+2026-07-07 14:15:04,399 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:04,402 | WARNING | aiogram.dispatcher | Sleep for 2.105308 seconds and try again... (tryings = 3, bot id = 8838659979)
+2026-07-07 14:15:06,619 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:06,624 | WARNING | aiogram.dispatcher | Sleep for 2.659765 seconds and try again... (tryings = 4, bot id = 8838659979)
+2026-07-07 14:15:12,528 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:12,529 | WARNING | aiogram.dispatcher | Sleep for 3.368198 seconds and try again... (tryings = 5, bot id = 8838659979)
+2026-07-07 14:15:16,036 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:16,050 | WARNING | aiogram.dispatcher | Sleep for 4.323438 seconds and try again... (tryings = 6, bot id = 8838659979)
+2026-07-07 14:15:20,491 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:20,509 | WARNING | aiogram.dispatcher | Sleep for 5.120310 seconds and try again... (tryings = 7, bot id = 8838659979)
+2026-07-07 14:15:25,774 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:25,774 | WARNING | aiogram.dispatcher | Sleep for 4.934619 seconds and try again... (tryings = 8, bot id = 8838659979)
+2026-07-07 14:15:30,817 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:30,817 | WARNING | aiogram.dispatcher | Sleep for 5.098622 seconds and try again... (tryings = 9, bot id = 8838659979)
+2026-07-07 14:15:36,019 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:36,023 | WARNING | aiogram.dispatcher | Sleep for 5.038656 seconds and try again... (tryings = 10, bot id = 8838659979)
+2026-07-07 14:15:41,613 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:41,817 | WARNING | aiogram.dispatcher | Sleep for 4.985946 seconds and try again... (tryings = 11, bot id = 8838659979)
+2026-07-07 14:15:47,263 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:47,463 | WARNING | aiogram.dispatcher | Sleep for 4.941153 seconds and try again... (tryings = 12, bot id = 8838659979)
+2026-07-07 14:15:52,767 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:52,786 | WARNING | aiogram.dispatcher | Sleep for 5.059639 seconds and try again... (tryings = 13, bot id = 8838659979)
+2026-07-07 14:15:57,955 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:15:57,958 | WARNING | aiogram.dispatcher | Sleep for 4.994464 seconds and try again... (tryings = 14, bot id = 8838659979)
+2026-07-07 14:16:03,130 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:03,152 | WARNING | aiogram.dispatcher | Sleep for 5.150678 seconds and try again... (tryings = 15, bot id = 8838659979)
+2026-07-07 14:16:08,405 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:08,427 | WARNING | aiogram.dispatcher | Sleep for 5.037109 seconds and try again... (tryings = 16, bot id = 8838659979)
+2026-07-07 14:16:13,573 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:13,574 | WARNING | aiogram.dispatcher | Sleep for 5.139517 seconds and try again... (tryings = 17, bot id = 8838659979)
+2026-07-07 14:16:18,841 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:18,847 | WARNING | aiogram.dispatcher | Sleep for 4.967103 seconds and try again... (tryings = 18, bot id = 8838659979)
+2026-07-07 14:16:23,925 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:23,925 | WARNING | aiogram.dispatcher | Sleep for 4.840969 seconds and try again... (tryings = 19, bot id = 8838659979)
+2026-07-07 14:16:28,871 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:28,871 | WARNING | aiogram.dispatcher | Sleep for 4.855766 seconds and try again... (tryings = 20, bot id = 8838659979)
+2026-07-07 14:16:31,275 | INFO | aiogram.dispatcher | Polling stopped
+2026-07-07 14:16:31,541 | INFO | __main__ | 🔒 Bot sessiyasi yopildi.
+2026-07-07 14:16:31,552 | INFO | aiogram.dispatcher | Polling stopped for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 14:16:39,273 | INFO | __main__ | 🚀 Bot ishga tushirilmoqda...
+2026-07-07 14:16:39,277 | INFO | bot.database.db | ✅ Jadvallar muvaffaqiyatli yaratildi.
+2026-07-07 14:16:39,277 | INFO | __main__ | ✅ Ma'lumotlar bazasi tayyor.
+2026-07-07 14:16:39,988 | INFO | __main__ | ✅ Bot muvaffaqiyatli ishga tushdi! Polling boshlandi...
+2026-07-07 14:16:39,988 | INFO | aiogram.dispatcher | Start polling
+2026-07-07 14:16:40,433 | INFO | aiogram.dispatcher | Run polling for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 14:16:40,568 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:40,568 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8838659979)
+2026-07-07 14:16:44,674 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:44,675 | WARNING | aiogram.dispatcher | Sleep for 1.250812 seconds and try again... (tryings = 1, bot id = 8838659979)
+2026-07-07 14:16:46,033 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:46,038 | WARNING | aiogram.dispatcher | Sleep for 1.651709 seconds and try again... (tryings = 2, bot id = 8838659979)
+2026-07-07 14:16:50,802 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:50,803 | WARNING | aiogram.dispatcher | Sleep for 2.210940 seconds and try again... (tryings = 3, bot id = 8838659979)
+2026-07-07 14:16:53,119 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:53,120 | WARNING | aiogram.dispatcher | Sleep for 2.948912 seconds and try again... (tryings = 4, bot id = 8838659979)
+2026-07-07 14:16:56,172 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:16:56,172 | WARNING | aiogram.dispatcher | Sleep for 3.767422 seconds and try again... (tryings = 5, bot id = 8838659979)
+2026-07-07 14:17:00,054 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:00,055 | WARNING | aiogram.dispatcher | Sleep for 4.892675 seconds and try again... (tryings = 6, bot id = 8838659979)
+2026-07-07 14:17:05,059 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:05,059 | WARNING | aiogram.dispatcher | Sleep for 4.961071 seconds and try again... (tryings = 7, bot id = 8838659979)
+2026-07-07 14:17:10,131 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:10,190 | WARNING | aiogram.dispatcher | Sleep for 4.853707 seconds and try again... (tryings = 8, bot id = 8838659979)
+2026-07-07 14:17:15,165 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:15,192 | WARNING | aiogram.dispatcher | Sleep for 4.999355 seconds and try again... (tryings = 9, bot id = 8838659979)
+2026-07-07 14:17:20,301 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:20,301 | WARNING | aiogram.dispatcher | Sleep for 4.836602 seconds and try again... (tryings = 10, bot id = 8838659979)
+2026-07-07 14:17:25,241 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:25,241 | WARNING | aiogram.dispatcher | Sleep for 5.178177 seconds and try again... (tryings = 11, bot id = 8838659979)
+2026-07-07 14:17:30,537 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:30,537 | WARNING | aiogram.dispatcher | Sleep for 4.957074 seconds and try again... (tryings = 12, bot id = 8838659979)
+2026-07-07 14:17:35,622 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:35,623 | WARNING | aiogram.dispatcher | Sleep for 5.042967 seconds and try again... (tryings = 13, bot id = 8838659979)
+2026-07-07 14:17:40,781 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:40,907 | WARNING | aiogram.dispatcher | Sleep for 5.077804 seconds and try again... (tryings = 14, bot id = 8838659979)
+2026-07-07 14:17:46,218 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:46,218 | WARNING | aiogram.dispatcher | Sleep for 5.168336 seconds and try again... (tryings = 15, bot id = 8838659979)
+2026-07-07 14:17:51,498 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:51,499 | WARNING | aiogram.dispatcher | Sleep for 4.891344 seconds and try again... (tryings = 16, bot id = 8838659979)
+2026-07-07 14:17:56,517 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:17:56,519 | WARNING | aiogram.dispatcher | Sleep for 4.984548 seconds and try again... (tryings = 17, bot id = 8838659979)
+2026-07-07 14:18:01,621 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:01,621 | WARNING | aiogram.dispatcher | Sleep for 4.966970 seconds and try again... (tryings = 18, bot id = 8838659979)
+2026-07-07 14:18:06,691 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:06,691 | WARNING | aiogram.dispatcher | Sleep for 4.746954 seconds and try again... (tryings = 19, bot id = 8838659979)
+2026-07-07 14:18:11,544 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:11,545 | WARNING | aiogram.dispatcher | Sleep for 5.030575 seconds and try again... (tryings = 20, bot id = 8838659979)
+2026-07-07 14:18:16,769 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:16,772 | WARNING | aiogram.dispatcher | Sleep for 5.076757 seconds and try again... (tryings = 21, bot id = 8838659979)
+2026-07-07 14:18:21,954 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:21,954 | WARNING | aiogram.dispatcher | Sleep for 4.926158 seconds and try again... (tryings = 22, bot id = 8838659979)
+2026-07-07 14:18:27,020 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:27,021 | WARNING | aiogram.dispatcher | Sleep for 5.052297 seconds and try again... (tryings = 23, bot id = 8838659979)
+2026-07-07 14:18:32,183 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:32,185 | WARNING | aiogram.dispatcher | Sleep for 4.989898 seconds and try again... (tryings = 24, bot id = 8838659979)
+2026-07-07 14:18:37,284 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:37,284 | WARNING | aiogram.dispatcher | Sleep for 5.043194 seconds and try again... (tryings = 25, bot id = 8838659979)
+2026-07-07 14:18:42,436 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:42,436 | WARNING | aiogram.dispatcher | Sleep for 5.099749 seconds and try again... (tryings = 26, bot id = 8838659979)
+2026-07-07 14:18:47,968 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:47,968 | WARNING | aiogram.dispatcher | Sleep for 4.879297 seconds and try again... (tryings = 27, bot id = 8838659979)
+2026-07-07 14:18:52,970 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:52,970 | WARNING | aiogram.dispatcher | Sleep for 5.174410 seconds and try again... (tryings = 28, bot id = 8838659979)
+2026-07-07 14:18:58,250 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:18:58,251 | WARNING | aiogram.dispatcher | Sleep for 5.014383 seconds and try again... (tryings = 29, bot id = 8838659979)
+2026-07-07 14:19:01,615 | INFO | aiogram.dispatcher | Polling stopped
+2026-07-07 14:19:01,870 | INFO | __main__ | 🔒 Bot sessiyasi yopildi.
+2026-07-07 14:19:01,873 | INFO | aiogram.dispatcher | Polling stopped for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 14:19:40,647 | INFO | __main__ | 🚀 Bot ishga tushirilmoqda...
+2026-07-07 14:19:40,653 | INFO | bot.database.db | ✅ Jadvallar muvaffaqiyatli yaratildi.
+2026-07-07 14:19:40,654 | INFO | __main__ | ✅ Ma'lumotlar bazasi tayyor.
+2026-07-07 14:19:41,379 | INFO | __main__ | ✅ Bot muvaffaqiyatli ishga tushdi! Polling boshlandi...
+2026-07-07 14:19:41,383 | INFO | aiogram.dispatcher | Start polling
+2026-07-07 14:19:41,859 | INFO | aiogram.dispatcher | Run polling for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 14:19:42,009 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:19:42,009 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8838659979)
+2026-07-07 14:19:46,123 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:19:46,123 | WARNING | aiogram.dispatcher | Sleep for 1.452595 seconds and try again... (tryings = 1, bot id = 8838659979)
+2026-07-07 14:19:47,689 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:19:47,690 | WARNING | aiogram.dispatcher | Sleep for 1.920448 seconds and try again... (tryings = 2, bot id = 8838659979)
+2026-07-07 14:19:53,216 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:19:53,216 | WARNING | aiogram.dispatcher | Sleep for 2.405394 seconds and try again... (tryings = 3, bot id = 8838659979)
+2026-07-07 14:19:55,736 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:19:55,736 | WARNING | aiogram.dispatcher | Sleep for 3.102816 seconds and try again... (tryings = 4, bot id = 8838659979)
+2026-07-07 14:19:58,952 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:19:58,953 | WARNING | aiogram.dispatcher | Sleep for 3.922296 seconds and try again... (tryings = 5, bot id = 8838659979)
+2026-07-07 14:20:02,985 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:02,985 | WARNING | aiogram.dispatcher | Sleep for 5.080265 seconds and try again... (tryings = 6, bot id = 8838659979)
+2026-07-07 14:20:08,176 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:08,176 | WARNING | aiogram.dispatcher | Sleep for 4.923007 seconds and try again... (tryings = 7, bot id = 8838659979)
+2026-07-07 14:20:13,212 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:13,213 | WARNING | aiogram.dispatcher | Sleep for 5.119724 seconds and try again... (tryings = 8, bot id = 8838659979)
+2026-07-07 14:20:18,442 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:18,443 | WARNING | aiogram.dispatcher | Sleep for 5.072276 seconds and try again... (tryings = 9, bot id = 8838659979)
+2026-07-07 14:20:23,637 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:23,641 | WARNING | aiogram.dispatcher | Sleep for 4.997069 seconds and try again... (tryings = 10, bot id = 8838659979)
+2026-07-07 14:20:28,758 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:28,758 | WARNING | aiogram.dispatcher | Sleep for 5.094001 seconds and try again... (tryings = 11, bot id = 8838659979)
+2026-07-07 14:20:33,964 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:33,967 | WARNING | aiogram.dispatcher | Sleep for 5.143812 seconds and try again... (tryings = 12, bot id = 8838659979)
+2026-07-07 14:20:39,220 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:39,220 | WARNING | aiogram.dispatcher | Sleep for 5.056916 seconds and try again... (tryings = 13, bot id = 8838659979)
+2026-07-07 14:20:44,393 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:44,394 | WARNING | aiogram.dispatcher | Sleep for 5.001745 seconds and try again... (tryings = 14, bot id = 8838659979)
+2026-07-07 14:20:49,514 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:49,514 | WARNING | aiogram.dispatcher | Sleep for 5.131161 seconds and try again... (tryings = 15, bot id = 8838659979)
+2026-07-07 14:20:54,757 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:54,758 | WARNING | aiogram.dispatcher | Sleep for 4.840772 seconds and try again... (tryings = 16, bot id = 8838659979)
+2026-07-07 14:20:59,715 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:20:59,715 | WARNING | aiogram.dispatcher | Sleep for 4.912108 seconds and try again... (tryings = 17, bot id = 8838659979)
+2026-07-07 14:21:04,743 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:04,743 | WARNING | aiogram.dispatcher | Sleep for 5.093909 seconds and try again... (tryings = 18, bot id = 8838659979)
+2026-07-07 14:21:09,984 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:09,984 | WARNING | aiogram.dispatcher | Sleep for 4.979483 seconds and try again... (tryings = 19, bot id = 8838659979)
+2026-07-07 14:21:15,082 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:15,083 | WARNING | aiogram.dispatcher | Sleep for 4.891528 seconds and try again... (tryings = 20, bot id = 8838659979)
+2026-07-07 14:21:20,082 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:20,082 | WARNING | aiogram.dispatcher | Sleep for 5.117171 seconds and try again... (tryings = 21, bot id = 8838659979)
+2026-07-07 14:21:25,310 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:25,310 | WARNING | aiogram.dispatcher | Sleep for 5.042644 seconds and try again... (tryings = 22, bot id = 8838659979)
+2026-07-07 14:21:30,543 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:30,543 | WARNING | aiogram.dispatcher | Sleep for 5.128599 seconds and try again... (tryings = 23, bot id = 8838659979)
+2026-07-07 14:21:35,786 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:35,787 | WARNING | aiogram.dispatcher | Sleep for 4.966787 seconds and try again... (tryings = 24, bot id = 8838659979)
+2026-07-07 14:21:40,866 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:40,866 | WARNING | aiogram.dispatcher | Sleep for 4.906330 seconds and try again... (tryings = 25, bot id = 8838659979)
+2026-07-07 14:21:45,888 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:45,889 | WARNING | aiogram.dispatcher | Sleep for 5.034938 seconds and try again... (tryings = 26, bot id = 8838659979)
+2026-07-07 14:21:51,049 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:51,049 | WARNING | aiogram.dispatcher | Sleep for 5.062726 seconds and try again... (tryings = 27, bot id = 8838659979)
+2026-07-07 14:21:56,220 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:21:56,220 | WARNING | aiogram.dispatcher | Sleep for 4.936770 seconds and try again... (tryings = 28, bot id = 8838659979)
+2026-07-07 14:22:01,279 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:01,282 | WARNING | aiogram.dispatcher | Sleep for 4.929041 seconds and try again... (tryings = 29, bot id = 8838659979)
+2026-07-07 14:22:06,337 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:06,338 | WARNING | aiogram.dispatcher | Sleep for 5.009003 seconds and try again... (tryings = 30, bot id = 8838659979)
+2026-07-07 14:22:11,457 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:11,457 | WARNING | aiogram.dispatcher | Sleep for 4.976373 seconds and try again... (tryings = 31, bot id = 8838659979)
+2026-07-07 14:22:16,552 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:16,553 | WARNING | aiogram.dispatcher | Sleep for 5.069739 seconds and try again... (tryings = 32, bot id = 8838659979)
+2026-07-07 14:22:21,735 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:21,736 | WARNING | aiogram.dispatcher | Sleep for 5.220302 seconds and try again... (tryings = 33, bot id = 8838659979)
+2026-07-07 14:22:27,084 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:27,089 | WARNING | aiogram.dispatcher | Sleep for 5.130662 seconds and try again... (tryings = 34, bot id = 8838659979)
+2026-07-07 14:22:32,342 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:32,343 | WARNING | aiogram.dispatcher | Sleep for 4.920589 seconds and try again... (tryings = 35, bot id = 8838659979)
+2026-07-07 14:22:37,375 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:37,375 | WARNING | aiogram.dispatcher | Sleep for 4.880742 seconds and try again... (tryings = 36, bot id = 8838659979)
+2026-07-07 14:22:42,364 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:42,364 | WARNING | aiogram.dispatcher | Sleep for 5.146129 seconds and try again... (tryings = 37, bot id = 8838659979)
+2026-07-07 14:22:47,627 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:47,628 | WARNING | aiogram.dispatcher | Sleep for 4.805276 seconds and try again... (tryings = 38, bot id = 8838659979)
+2026-07-07 14:22:52,542 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:52,542 | WARNING | aiogram.dispatcher | Sleep for 4.929619 seconds and try again... (tryings = 39, bot id = 8838659979)
+2026-07-07 14:22:57,582 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:22:57,582 | WARNING | aiogram.dispatcher | Sleep for 4.987589 seconds and try again... (tryings = 40, bot id = 8838659979)
+2026-07-07 14:23:02,698 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2026-07-07 14:23:02,699 | WARNING | aiogram.dispatcher | Sleep for 5.103395 seconds and try again... (tryings = 41, bot id = 8838659979)
+2026-07-07 14:23:03,193 | INFO | aiogram.dispatcher | Polling stopped
+2026-07-07 14:23:03,444 | INFO | __main__ | 🔒 Bot sessiyasi yopildi.
+2026-07-07 14:23:03,445 | INFO | aiogram.dispatcher | Polling stopped for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 14:28:45,730 | INFO | __main__ | 🚀 Bot ishga tushirilmoqda...
+2026-07-07 14:28:45,733 | INFO | bot.database.db | ✅ Jadvallar muvaffaqiyatli yaratildi.
+2026-07-07 14:28:45,733 | INFO | __main__ | ✅ Ma'lumotlar bazasi tayyor.
+2026-07-07 14:28:46,351 | INFO | __main__ | ✅ Bot muvaffaqiyatli ishga tushdi! Polling boshlandi...
+2026-07-07 14:28:46,351 | INFO | aiogram.dispatcher | Start polling
+2026-07-07 14:28:46,799 | INFO | aiogram.dispatcher | Run polling for bot @teeest_anime_bot id=8838659979 - 'test animebot'
+2026-07-07 14:28:59,116 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 14:28:59,116 | INFO | aiogram.event | Update id=131486132 is handled. Duration 515 ms by bot id=8838659979
+2026-07-07 14:29:35,150 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 7811037994
+2026-07-07 14:29:35,151 | INFO | aiogram.event | Update id=131486133 is handled. Duration 390 ms by bot id=8838659979
+2026-07-07 14:30:00,765 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 7811037994 kod=1 qidirdi
+2026-07-07 14:30:00,765 | INFO | aiogram.event | Update id=131486134 is handled. Duration 484 ms by bot id=8838659979
+2026-07-07 14:30:04,385 | INFO | aiogram.event | Update id=131486135 is handled. Duration 265 ms by bot id=8838659979
+2026-07-07 14:30:05,597 | INFO | bot.handlers.user_handler | 📤 Foydalanuvchi 7811037994: anime_id=2, ep=1, action=watch
+2026-07-07 14:30:05,597 | INFO | aiogram.event | Update id=131486136 is handled. Duration 265 ms by bot id=8838659979
+2026-07-07 14:34:59,060 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 14:34:59,061 | INFO | aiogram.event | Update id=131486137 is handled. Duration 546 ms by bot id=8838659979
+2026-07-07 14:35:01,326 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 8547063111 kod=1 qidirdi
+2026-07-07 14:35:01,327 | INFO | aiogram.event | Update id=131486138 is handled. Duration 172 ms by bot id=8838659979
+2026-07-07 14:35:09,100 | INFO | aiogram.event | Update id=131486139 is handled. Duration 265 ms by bot id=8838659979
+2026-07-07 14:35:10,523 | INFO | bot.handlers.user_handler | 📤 Foydalanuvchi 8547063111: anime_id=2, ep=1, action=watch
+2026-07-07 14:35:10,528 | INFO | aiogram.event | Update id=131486140 is handled. Duration 296 ms by bot id=8838659979
+2026-07-07 14:42:56,227 | INFO | bot.handlers.user_handler | 👤 Yangi foydalanuvchi: 8547063111
+2026-07-07 14:42:56,228 | INFO | aiogram.event | Update id=131486141 is handled. Duration 500 ms by bot id=8838659979
+2026-07-07 14:42:58,053 | INFO | bot.handlers.user_handler | 🔍 Foydalanuvchi 8547063111 kod=1 qidirdi
+2026-07-07 14:42:58,054 | INFO | aiogram.event | Update id=131486142 is handled. Duration 157 ms by bot id=8838659979
+2026-07-07 14:42:59,167 | INFO | aiogram.event | Update id=131486143 is handled. Duration 265 ms by bot id=8838659979
+2026-07-07 14:43:00,018 | INFO | bot.handlers.user_handler | 📤 Foydalanuvchi 8547063111: anime_id=2, ep=1, action=watch
+2026-07-07 14:43:00,020 | INFO | aiogram.event | Update id=131486144 is handled. Duration 328 ms by bot id=8838659979
+2026-07-07 14:43:03,286 | INFO | aiogram.event | Update id=131486145 is handled. Duration 125 ms by bot id=8838659979
+2026-07-07 14:43:04,739 | INFO | aiogram.event | Update id=131486146 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 14:43:06,361 | INFO | aiogram.event | Update id=131486147 is handled. Duration 140 ms by bot id=8838659979
+2026-07-07 15:11:47,175 | INFO | aiogram.dispatcher | Polling stopped
+2026-07-07 15:11:47,427 | INFO | __main__ | 🔒 Bot sessiyasi yopildi.
+2026-07-07 15:11:47,428 | INFO | aiogram.dispatcher | Polling stopped for bot @teeest_anime_bot id=8838659979 - 'test animebot'
